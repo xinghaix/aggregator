@@ -378,7 +378,7 @@ if __name__ == "__main__":
         "-d",
         "--delay",
         type=int,
-        default=600,
+        default=200,
         required=False,
         help="Maximum acceptable delay",
     )
